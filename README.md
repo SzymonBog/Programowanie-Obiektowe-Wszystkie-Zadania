@@ -1,7 +1,7 @@
 # Programowanie-Obiektowe-Wszystkie-Zadania
 Wszystkie zadania ze Zbioru Zadań z PO.
 Wszystkie zadania znajdują się w jednym projekcie w pakietach o nazwach działów ze zbioru zadań.                                  
-Ukończone zadania:
+Ukończone zadania:                                     
 I. Wprowadzenie do języka Java:
   1. Operacje wejścia/wyjścia 1-6 [\\/]
   2. Instrukcje warunkowe 1-12 [\\/]
