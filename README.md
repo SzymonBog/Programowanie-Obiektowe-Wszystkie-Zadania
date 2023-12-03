@@ -12,4 +12,4 @@ Ukończone zadania:
 
 
 Łączna ilość ukończonych zadań(w tym repo): 101 // Po ukończeniu działu: 7        
-W większości zadań została użyta funkcja 'random' aby usprawnić testowanie czy kod działa poprawnie
+W większości zadań została użyta funkcja 'random' aby usprawnić testowanie kodu
