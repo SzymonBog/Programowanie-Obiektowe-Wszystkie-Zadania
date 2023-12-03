@@ -1,6 +1,6 @@
 # Programowanie-Obiektowe-Wszystkie-Zadania
 Wszystkie zadania ze Zbioru Zadań z PO.
-Wszystkie zadania znajdują się w jednym projekcie w pakietach o nazwach działów ze zbioru zadań.
+Wszystkie zadania znajdują się w jednym projekcie w pakietach o nazwach działów ze zbioru zadań.                                  
 Ukończone zadania:
 1. Operacje wejścia/wyjścia 1-6
 2. Instrukcje warunkowe 1-12
@@ -11,5 +11,5 @@ Ukończone zadania:
 7. ArrayList (listy tablicowe) 1-15
 
 
-Łączna ilość ukończonych zadań(w tym repo): 101 // Po ukończeniu działu: 7
+Łączna ilość ukończonych zadań(w tym repo): 101 // Po ukończeniu działu: 7        
 W większości zadań została użyta funkcja 'random' aby usprawnić testowanie czy kod działa poprawnie
